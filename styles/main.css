@@ -19,8 +19,6 @@
     height: 5cm;
 } 
 
-body {background-color: rgb(179, 255, 0);}
-
 .bordered {
     display: flex;
     border-style: double;
@@ -40,4 +38,7 @@ body {background-color: rgb(179, 255, 0);}
 .fishButton{
     display: flex;
     justify-content: center;
+}
+
+body{ background-color: crimson;
 }
