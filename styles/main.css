@@ -7,12 +7,12 @@
     justify-content: space-between;
 }
 
-
+ 
  .fishList {
     flex-basis: 65%;
     display: flex;
     flex-wrap: wrap;
-}
+} 
 
 .fish__image {
     width: 5cm;
@@ -32,6 +32,5 @@ body {background-color: rgb(179, 255, 0);}
 }
 
  .fish {
-     display: flex;
      margin: auto;
-}
+} 
