@@ -8,16 +8,16 @@
 }
 
 
-.fishList {
+ .fishList {
     flex-basis: 65%;
     display: flex;
     flex-wrap: wrap;
 }
 
 .fish__image {
-    width: 8rem;
-    height: 8rem;
-}
+    width: 5cm;
+    height: 5cm;
+} 
 
 body {background-color: rgb(179, 255, 0);}
 
@@ -29,4 +29,9 @@ body {background-color: rgb(179, 255, 0);}
 
 .bordered2 {
     border: solid;
+}
+
+ .fish {
+     display: flex;
+     margin: auto;
 }
