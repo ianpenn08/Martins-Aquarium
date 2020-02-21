@@ -34,3 +34,10 @@ body {background-color: rgb(179, 255, 0);}
  .fish {
      margin: auto;
 } 
+.fish__name{
+    text-align: center;
+}
+.fishButton{
+    display: flex;
+    justify-content: center;
+}
